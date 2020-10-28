@@ -1,3 +1,7 @@
+## IMPORTANT
+
+`JUST A CLONE, so that it will not error on PHP 7.4, because there are no more update from the source.`.
+
 ## Requirements
 
 - PHP 5.5+ (recommended by CodeIgniter)
